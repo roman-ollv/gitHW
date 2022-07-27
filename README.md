@@ -1,2 +1,2 @@
 # gitHW
-Anna's homework
+1d ttt
